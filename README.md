@@ -217,7 +217,7 @@ List of tasks
 
 **Web Board (Forum)** – Create a forum for you and your buddies to post, administer and share thoughts and ideas.
 
-##<a name="graphics">Graphics and Multimedia</a>
+## <a name="graphics">Graphics and Multimedia</a>
 
 **Import Picture and Save as Grayscale** – A utility that sucks the color right out of an image and saves it. You could add more including adjusting contrast, colorizing and more for added complexity.
 
@@ -232,7 +232,7 @@ List of tasks
 **Signature Maker** – Ever seen those web board posts where someone has a generated signature made up? See if you can make a program that allows the user to specify a background, text, colors and alignment to make their own signatures or userbars.
 
 
-##<a name="games">Games</a>
+## <a name="games">Games</a>
 
 **Battleship** – Create two game boards and let each player place a number of war ships. Each player can’t see the other person’s board. They then take turns firing at one another by guessing one of the board squares. If the square they guess contains part of a ship, it is a hit. Otherwise it is a miss. They sink a ship when all squares containing that particular ship have been uncovered. The player wins when all their opponents’ ships have been sunk.
 
@@ -246,13 +246,13 @@ List of tasks
 
 **The game of the live** - The Game of Life is a cellular automaton devised by the British mathematician John Horton Conway in 1970. It is the best-known example of a cellular automaton. Conway's game of life is described [here](http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life):
 
-##<a name="3d">3D</a>
+## <a name="3d">3D</a>
 
 **OpenGL** - The goal is to display a smooth shaded triangle with OpenGL
 
 ![OpenGL Triangle](http://rosettacode.org/mw/images/6/63/Triangle.png)
 
-##<a name="gui">GUI</a>
+## <a name="gui">GUI</a>
 
 **Color of a screen pixel** - Get color information from an arbitrary pixel on the screen, such as the current location of the mouse cursor. The mouse cursor may or may not have to be active in a GUI created by your program. These functions are OS related.
 
